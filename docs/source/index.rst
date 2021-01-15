@@ -76,6 +76,7 @@ Guide
 
    license
    setup_and_run
+   migrations
 
 
 
