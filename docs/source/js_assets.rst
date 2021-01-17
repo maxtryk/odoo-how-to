@@ -18,8 +18,8 @@ Add a Javascript Asset
 
     .. code-block:: python
 
-            'data': [
-                'views/assets.xml',
-            ],
+        'data': [
+            'views/assets.xml',
+        ],
 
 #. `debug=assets` and `--dev=xml` may come in handy

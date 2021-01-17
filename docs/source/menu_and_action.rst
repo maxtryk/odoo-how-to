@@ -1,6 +1,16 @@
 Menu and Action
 ===============
 
+#. add to manifest:
+
+    .. code-block:: python
+
+        'data': [
+            'views/menu.xml',
+        ],
+
+#. have `views/menu.xml`:
+
 .. code-block:: XML
 
     <!-- root menu -->
