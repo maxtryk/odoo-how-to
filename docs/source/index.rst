@@ -76,6 +76,7 @@ Guide
 
    license
    setup_and_run
+   menu_and_action
    migrations
    js_assets
    js_override
