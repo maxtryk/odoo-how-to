@@ -41,6 +41,8 @@ Alternatively, `<act_window>` shortcut via full `<record>`:
 
 * `name` - top-left corner title for views opened by the action
 * `res_model` - target model
+* `src_model` - target model of the action to appear in Actions menu
+* `multi="true"` - together with `src_model` means availability for both form (single record) and list (multiple)
 * `view_mode` - ordered list of enabled views
 * `domain` - to filter records
 * `context` - context to set
