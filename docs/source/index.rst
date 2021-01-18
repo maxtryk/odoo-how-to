@@ -81,7 +81,7 @@ Guide
    migrations
    js_assets
    js_override
-
+   button_opening_view
 
 
 Indices and tables
