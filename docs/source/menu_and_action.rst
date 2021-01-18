@@ -20,7 +20,7 @@ Menu and Action
     <!-- action for the model -->
     <act_window id="action_library_book"
                 name="Library Books"
-                res_model="library_app.book"
+                res_model="library.book"
                 view_mode="tree,form"
                 domain="[('customer', '=', True)]"
                 context="{'default_customer': True}"
@@ -32,7 +32,7 @@ Alternatively, `<act_window>` shortcut via full `<record>`:
 
     <record id='action_library_book' model='ir.actions.act_window'>
         <field name="name">Library Books</field>
-        <field name="res_model">library_app.book</field>
+        <field name="res_model">library.book</field>
         <field name="view_mode">tree,form</field>
         <field name="domain">[('customer', '=', True)]</field>
         <field name="context">{'default_customer': True}</field>
