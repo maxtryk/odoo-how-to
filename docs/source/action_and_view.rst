@@ -32,9 +32,9 @@ Action and View
 
     .. code-block:: xml
 
-        <record id='action_all_customers'model='ir.actions.act_window'>
-            <field name="name">All customers</field>
-            <field name="res_model">res.partner</field>
+        <record id='action_library_book' model='ir.actions.act_window'>
+            <field name="name">Library Books</field>
+            <field name="res_model">library.book</field>
             <field name="view_mode">tree,form</field>
             <field name="context">{'form_view_ref': 'library.view_form_book'}</field>
         </record>
