@@ -82,6 +82,7 @@ Guide
    js_assets
    js_override
    button_opening_view
+   styles
 
 
 Indices and tables
