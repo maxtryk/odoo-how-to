@@ -8,7 +8,8 @@ Add a Javascript Asset
 
         <odoo>
             <template id="another_mod" name="another mod" inherit_id="web.assets_backend">
-                <xpath expr="//script[last()]" position="after">
+                <!-- <xpath expr="//script[last()]" position="after"> -->
+                <xpath expr="." position="inside">
                     <script type="text/javascript" src="/another_mod/static/src/js/another_mod.js"></script>
                 </xpath>
             </template>

@@ -83,6 +83,7 @@ Guide
    js_override
    button_opening_view
    styles
+   field_widget
 
 
 Indices and tables

@@ -2,7 +2,7 @@ Override a Javascript Component
 ===============================
 
 #. :doc:`js_assets`
-#. define a new JS module:
+#. define a new JS module in the added asset file:
 
     .. code-block:: javascript
 
