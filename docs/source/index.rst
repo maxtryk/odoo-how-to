@@ -84,6 +84,7 @@ Guide
    button_opening_view
    styles
    field_widget
+   xpath
 
 
 Indices and tables
